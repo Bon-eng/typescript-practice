@@ -13,5 +13,5 @@ let profile = {
   height: 100
 } as const;
 
-profile.name = 'ham';
-profile.height = 200;
+// profile.name = 'ham';
+// profile.height = 200;
